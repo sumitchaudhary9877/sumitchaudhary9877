@@ -1,4 +1,4 @@
-👋 Hello there! As a dedicated Frontend Developer with over 7 years of experience, I bring a passion for crafting intuitive and visually stunning web interfaces. My goal is to utilize cutting-edge technologies to create seamless user experiences that drive engagement and satisfaction.
+👋 Hello there! As a dedicated Frontend Developer with over 8 years of experience, I bring a passion for crafting intuitive and visually stunning web interfaces. My goal is to utilize cutting-edge technologies to create seamless user experiences that drive engagement and satisfaction.
 
 With a solid foundation in HTML5, CSS3, and JavaScript, I specialize in frontend frameworks like React.js, Angular, and Vue.js. I thrive in dynamic environments where collaboration and innovation intersect, working closely with cross-functional teams to transform design concepts into functional code. 🚀
 
